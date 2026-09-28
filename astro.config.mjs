@@ -1,6 +1,4 @@
-// @ts-check
-import { defineConfig } from 'astro/config';
-
 export default defineConfig({
-  site: 'https://wuyuanyuan.github.io',
-});
+  site: 'https://wu-wu33.github.io',
+  base: '/wuyuanyuan.github.io',
+}); 
